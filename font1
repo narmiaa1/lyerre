@@ -1,0 +1,8 @@
+@font-face{ 
+            font-family: "EPISODEI";
+            src: url('http://fontsforweb.com/public/fonts/476/EPISODE1.eot');
+            src: local("EPISODE I"), url('http://fontsforweb.com/public/fonts/476/EPISODE1.woff') format("woff"), url('http://fontsforweb.com/public/fonts/476/EPISODE1.ttf') format("truetype");
+        }
+        .fontsforweb_fontid_476 {
+            font-family: "EPISODEI";
+        }
